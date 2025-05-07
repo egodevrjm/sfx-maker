@@ -733,8 +733,7 @@ Return only the enhanced prompt with no additional explanation.`
       ) : (
         <>
           <div className="header">
-            <h1>ElevenLabs Soundscape Generator</h1>
-            <p>Create high-quality sound effects using AI</p>
+            <h1>Soundscape Generator</h1>
           </div>
           
           <div className="container">
