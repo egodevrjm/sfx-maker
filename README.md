@@ -1,4 +1,4 @@
-# ElevenLabs Soundscape Generator
+#  Soundscape Generator
 
 A React application that creates high-quality sound effects using the ElevenLabs text-to-sound-effects API and Gemini 2.0 Flash for prompt enhancement.
 
